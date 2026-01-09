@@ -1,3 +1,3 @@
 ARG VERSION
-From almalinux:${VERSION:-9}
+FROM almalinux:${VERSION:-9}
 
