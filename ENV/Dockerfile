@@ -2,4 +2,4 @@ FROM almalinux:9
 ENV COURSE="DOCKER" \
     DURATION="4MONTHS" \
     AUTHOR="BHARATH"
-    
+CMD ["sleep","1000"] 
